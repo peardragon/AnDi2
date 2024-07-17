@@ -2,7 +2,7 @@
 This repository contains the code and models for the AnDi2 Challenge.
 
 ## Included Models
-Five pre-trained models are included in this repository. (under "models" folder)
+Five pre-trained models are included in this repository. (under "model" folder)
 
 ## Running the Evaluation
 To evaluate the models on a dataset, follow these steps:

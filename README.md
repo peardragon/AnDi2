@@ -2,7 +2,7 @@
 This repository contains the code and models for the AnDi2 Challenge.
 
 ## Included Models
-Five pre-trained models are included in this repository.
+Five pre-trained models are included in this repository. (under "models" folder)
 
 ## Running the Evaluation
 To evaluate the models on a dataset, follow these steps:
@@ -14,3 +14,4 @@ To evaluate the models on a dataset, follow these steps:
 ### Notes
 The evaluation process is performed on a trajectory-by-trajectory basis using CPU computation.
 Due to CPU computation (not parallel), the total elapsed time for the evaluation can be approximately one hour.
+

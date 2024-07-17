@@ -12,6 +12,6 @@ To evaluate the models on a dataset, follow these steps:
 - Upon successful completion, the results will be saved as "res.zip" in the "challenge_results" folder.
 
 ### Notes
-The evaluation process is performed on a trajectory-by-trajectory basis using CPU computation.
-Due to CPU computation (not parallel), the total elapsed time for the evaluation can be approximately one hour.
+- The evaluation process is performed on a trajectory-by-trajectory basis using CPU computation. Due to CPU computation (not parallel), the total elapsed time for the evaluation can be approximately one hour.
+- For check, final submitted file ("res.zip") is included.
 
